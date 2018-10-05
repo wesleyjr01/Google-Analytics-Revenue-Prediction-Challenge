@@ -10,5 +10,5 @@ https://www.kaggle.com/c/ga-customer-revenue-prediction
 ## My Kaggle's Profile:
 https://www.kaggle.com/wesleyjr01
 
-## My's EDA Kernel over this challenge's dataset:
+## My EDA's Kernel over this challenge's dataset:
 https://www.kaggle.com/wesleyjr01/google-analytics-challenge-data-analisys
